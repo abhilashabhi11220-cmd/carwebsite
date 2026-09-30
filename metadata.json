@@ -1,0 +1,6 @@
+{
+  "name": "SPETTACOLO 3D - Arancio SVJ Supercar",
+  "description": "Interactive 3D supercar experience featuring real-time 3D configurator, scissor doors animation, canyon drive simulator, wind tunnel aerodynamics, and V12 performance telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
